@@ -42,7 +42,7 @@ def create_task(request):
             # Security: Log this action (Req: Logging)
             AuditLog.objects.create(
                 action="Created Task", 
-                performed_by=request.user, 
+                user=request.user, 
                 details=f"Task '{title}' created"
             )
             return redirect('dashboard')

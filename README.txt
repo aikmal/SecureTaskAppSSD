@@ -1,3 +1,9 @@
+## Team Members
+- TENGKU EIKMAL AQIL BIN TENGKU SIFZIZUL (@aikmal) 
+- RAHEESH NUSAYR BIN RAZMAN HAKIMI (@sayurnaraa) 
+- TUAN ATHIR HAKIMIN BIN TUAN ZAHIRMAN ZARIF (@athir-hakimin) 
+- TUAN SYABIL SYAHMI BIN TUAN MOHD SAZLI  (@sabel) 
+
 SECURE TASK MANAGER - INSTALLATION INSTRUCTIONS
 ===============================================
 
@@ -139,6 +145,15 @@ If it says `Starting development server at http://127.0.0.1:8000/`, **IT WORKED!
 3. Log in with these details:
 * **Username:** `admin`
 * **Password:** `password123`
+
+---
+
+
+### **STEP 7: VIEW SCREENSHOTS**
+
+To see what the system looks like and verify you have set it up correctly, please open the docs folder included in the project files.
+
+Look for a file named Screenshots.docx or System_Screenshots.pdf inside that folder.
 
 
 
