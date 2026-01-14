@@ -144,7 +144,7 @@ If it says `Starting development server at http://127.0.0.1:8000/`, **IT WORKED!
 2. Type this address: `http://127.0.0.1:8000`
 3. Log in with these details:
 * **Username:** `admin`
-* **Password:** `password123`
+* **Password:** `password`
 
 ---
 
